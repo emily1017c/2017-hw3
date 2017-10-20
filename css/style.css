@@ -1,0 +1,161 @@
+h1{
+  font-size: 36pt;
+  color: #778A50;
+  font-family: Arial black;
+  float: left;
+  margin: 53px 8px 0 0;
+
+}
+body{
+  background-color:  #EDF2C5;
+  height: 940px;
+  margin: auto;
+}
+.bigbody{
+  width: 940px;
+  height: 890px;
+  background-color:  #EDF2C5;
+  margin:0 160px;
+}
+.first{
+  height: 25px;
+}
+.fb{
+  width: 25px;
+  height: 25px;
+  float: right;
+  margin: 70px 17px 10px 0;
+}
+.ig{
+  width: 25px;
+  height: 25px;
+  float: right;
+  margin-top: 70px;
+  margin-right: 10px;
+}
+.line{
+  background-color: #778A50;
+  width: 1px;
+  height: 25px;
+  float: right;
+  margin-right: 10px;
+  margin-top: 70px;
+
+}
+.login{
+  width: 60px;
+  height: 18px;
+  color: #778A50;
+  font-family: Arial black;
+  font-size: 12px;
+  border:1px solid #778A50;
+  border-radius:3px;
+  float:right;
+  margin-top: 70px;
+  margin-right: 10px;
+  text-align: center;
+  padding: 3.5px;
+}
+.join{
+  width: 60px;
+  height: 18px;
+  color: #778A50;
+  font-family: Arial black;
+  font-size: 12px;
+  border:1px solid #778A50;
+  border-radius:3px;
+  float:right;
+  margin-top: 70px;
+  text-align: center;
+  padding: 3.5px;
+}
+.second{
+  width: 940px;
+  background-color: #778A50;
+  float:left;
+  margin-bottom: 20px;
+  border-radius:3px;
+}
+.home, .aboutus, .vegetables, .online, .contact{
+  color: white;
+  font-size: 16px;
+  font-family: arial black;
+  margin: 16px 30px;
+  float: left;
+}
+.big{
+  margin-bottom: 30px;
+}
+.aside1{
+  width: 444px;
+  float: left;
+}
+.aside2{
+  width: 445px;
+  float: right;
+}
+.a1, .a2{
+  width: 444px;
+  background-color: #778A50;
+  float: left;
+  margin-bottom: 15px;
+  border-radius:3px;
+}
+.av, .ac{
+  color: white;
+  font-size: 16px;
+  font-family: arial black;
+  margin: 16px 30px;
+  float: left;
+}
+.ca, .co, .pe{
+  float: left;
+  width: 140px;
+  height: 140px;
+  border-radius:3px;
+}
+.co{
+  margin: 0 12px;
+}
+.c{
+  background-color: #F7FBDA;
+  width: 445px;
+  height: 140px;
+  float: left;
+  border-radius:3px;
+}
+.text{
+  font-family: Arial;
+  font-size: 12px;
+  line-height: 1.33;
+  color: #7D7D7D;
+  margin: 16px 15px;
+}
+.line2{
+  width: 414px;
+  height: 1px;
+  background-color: #7D7D7D;
+  margin: 0 15px;
+  margin-bottom: 16px;
+  float: left;
+}
+.ep{
+  font-size: 12px;
+  font-family: Arial;
+  line-height: 1.83;
+  color:#7D7D7D;
+  margin: 15px;
+}
+footer{
+  width: 1264px;
+  height: 60px;
+  background-color: #778A50;
+  float:left;
+  margin-top: 35px;
+}
+.foot{
+  font-size: 12px;
+  font-family: Arial;
+  color: #EDF2C5;
+  margin: 24px 479px;
+}

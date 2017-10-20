@@ -4,7 +4,9 @@ h1{
   font-family: Arial black;
   float: left;
   margin: 53px 8px 0 0;
-
+}
+a{
+  text-decoration: none;
 }
 body{
   background-color:  #EDF2C5;
